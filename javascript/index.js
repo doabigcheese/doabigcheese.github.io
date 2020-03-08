@@ -548,6 +548,7 @@ function setUpData(){
     OMD.push({planetname: "Cellin", locationname: "Starfarer Wrack", OM1: 358, OM2: 579.9, OM3: 322.5, OM4: 600.4, OM5: 281.7, OM6: 620.6});
     OMD.push({planetname: "Cellin", locationname: "Connie Wrack", OM1: 416.9, OM2: 502.2, OM3: 353.2, OM4: 548.8, OM5: 612.8, OM6: 198.2});	
     OMD.push({planetname: "Daymar", locationname: "Caterpillar Wrack", OM1: 573.9, OM2: 465.9, OM3: 709.6, OM4: 207, OM5: 423.6, OM6: 605.8});	
+    OMD.push({planetname: "Yela", locationname: "Caterpillar Wrack", OM1: 699.8, OM2: 348.8, OM3: 519.4, OM4: 584.5, OM5: 300.6, OM6: 721.8});	
     
     
     //OMD.push({planetname: , locationname: , OM1: , OM2: , OM3: , OM4: , OM5: , OM6: }); ---- form used above
