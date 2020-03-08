@@ -355,7 +355,7 @@ function savePOI(planet, OMP, name) {
          // // 
     }
     };
-    xhttp.open("GET", "http://buchauer.net/savepoi.php?poi="+data, true);
+    xhttp.open("POST", "http://buchauer.net/savepoi.php?poi="+data, true);
     xhttp.send();
     
 
