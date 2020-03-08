@@ -343,7 +343,23 @@ function calculateRoute(target, planet){ //calculate route bases on target and p
 
 
 
+function savePOI(planet, OMP, name) {
+   
+    //         OMD.push({planetname: "Cellin", locationname: "Connie Wrack", OM1: 416.9, OM2: 502.2, OM3: 353.2, OM4: 548.8, OM5: 612.8, OM6: 198.2});	
 
+    //let data='OMD.push({planetname: "' + planet + '", locationname: "' + name + '", OM1: ' + OMP[0] + ', OM2: ' + OMP[1] + ', OM3: ' + OMP[2] + ', OM4: ' + OMP[3] + ', OM5: ' + OMP[4] + ', OM6: ' + OMP[5] + '});';	
+    let data = planet + "," + name + "," + OMP[0] + "," + OMP[1] + "," + OMP[2] + "," + OMP[3] + "," + OMP[4] + "," + OMP[5]
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+    if (xhttp.readyState == 4 && xhttp.status == 200) {
+         // // 
+    }
+    };
+    xhttp.open("GET", "savepoi.php?poi="+data, true);
+    xhttp.send();
+    
+
+}
 
 
 function distancesToPoint(planet, OMP){  //convert distances to orbital markers to coordinate
@@ -732,7 +748,7 @@ function onClickCalculate(){
 
 
 function onClickConvert(){
-    
+
     if(document.getElementById("convert-planet-list").value == ""){
         document.getElementById("output-text-area").value = "Please select a planet!";
     } else if(document.getElementById("convert-planet-list").value == "Hurston" || document.getElementById("convert-planet-list").value == "Arccorp"){
@@ -749,13 +765,20 @@ function onClickConvert(){
             document.getElementById("output-text-area").value = "Please enter distances!";
         } else{ 
             let omd = [om1, om2, om3, om4, om5, om6];
-
+            
             let target = distancesToPoint(planet, omd);
 
             if(typeof target == "undefined"){
                 document.getElementById("output-text-area").value = "No point at those distances!";
             } else {
                 document.getElementById("output-text-area").value = "Location coordinate:\n\n" + Math.round(target.x * 100) / 100 + " | "  + Math.round(target.y * 100) / 100 + " | " + Math.round(target.z * 100) / 100;
+                if(document.getElementById("chkbox_save").value == "save") {
+                    if(document.getElementById("save_name").value == "") { let name = "untitled";
+                    } else {
+                        let name = document.getElementById("save_name").value;
+                    }
+                    savePOI(planet, omd, name);
+                }
             }
         }
     }
