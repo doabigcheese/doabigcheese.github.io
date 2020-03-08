@@ -558,10 +558,15 @@ function setUpData(){
     OMD.push({planetname: "Cellin", locationname: "Stash house", OM1: 283.1, OM2: 588.5, OM3: 587.3, OM4: 285.6, OM5: 381.4, OM6: 530.1});
     OMD.push({planetname: "Aberdeen", locationname: "Cave 1", OM1: 440, OM2: 531, OM3: 667.4, OM4: 173.5, OM5: 418.1, OM6: 548.4});
     OMD.push({planetname: "Daymar", locationname: "Javelin wreck", OM1: 577.2, OM2: 461.1, OM3: 205.3, OM4: 709.7, OM5: 428.9, OM6: 601.5});
+    
     OMD.push({planetname: "Daymar", locationname: "Starfarer Wrack", OM1: 354.1, OM2: 648.5, OM3: 271, OM4: 687.4, OM5: 574.5, OM6: 464.7});
     OMD.push({planetname: "Microtech", locationname: "Oasis", OM1: 1763, OM2: 1743, OM3: 2070, OM4: 1363, OM5: 679.5, OM6: 2384});    
     OMD.push({planetname: "Cellin", locationname: "Starfarer Wrack", OM1: 358, OM2: 579.9, OM3: 322.5, OM4: 600.4, OM5: 281.7, OM6: 620.6});
     OMD.push({planetname: "Cellin", locationname: "Connie Wrack", OM1: 416.9, OM2: 502.2, OM3: 353.2, OM4: 548.8, OM5: 612.8, OM6: 198.2});	
+    OMD.push({planetname: "Daymar", locationname: "Caterpillar Wrack", OM1: 573.9, OM2: 465.9, OM3: 709.6, OM4: 207, OM5: 423.6, OM6: 605.8});	
+    OMD.push({planetname: "Yela", locationname: "Caterpillar Wrack", OM1: 699.8, OM2: 348.8, OM3: 519.4, OM4: 584.5, OM5: 300.6, OM6: 721.8});	
+    
+    
     //OMD.push({planetname: , locationname: , OM1: , OM2: , OM3: , OM4: , OM5: , OM6: }); ---- form used above
 
 
