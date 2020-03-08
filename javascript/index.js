@@ -355,7 +355,7 @@ function savePOI(planet, OMP, name) {
          // // 
     }
     };
-    xhttp.open("POST", "savepoi.php?poi="+data, true);
+    xhttp.open("GET", "savepoi.php?poi="+data, true);
     xhttp.send();
     
 
