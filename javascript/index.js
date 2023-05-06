@@ -533,7 +533,7 @@ function setUpData(){
     planets.push(new Planet("Cellin", 260, 380));
     planets.push(new Planet("Daymar", 295, 430.9));
     planets.push(new Planet("Yela", 313, 455.468));
-    planets.push(new Planet("Hurston", 1000, 1438)); //TODO update to proper value
+    planets.push(new Planet("Hurston", 1000, 1436.814)); //TODO update to proper value
     planets.push(new Planet("Arial", 344.494, 501));
     planets.push(new Planet("Aberdeen", 274, 402.7));
     planets.push(new Planet("Magda", 340.826, 494.8));
