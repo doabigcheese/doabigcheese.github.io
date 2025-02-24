@@ -1,2 +1,2 @@
 KnebelTV: keines
-Knebel_de: keines
+knebel_de: CONSTELLATION TAURUS + LTI
