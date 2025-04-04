@@ -1,2 +1,2 @@
-KnebelTV: keines
-knebel_de: RSI APOLLO + LTI
+KnebelTV: ZEUS CL + LTI
+knebel_de: 2x GOLEM + LTI
