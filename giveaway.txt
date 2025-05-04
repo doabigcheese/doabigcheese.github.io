@@ -1,2 +1,2 @@
-KnebelTV: RSI PERSEUS + LTI
-knebel_de: ARGO RAFT + LTI
+KnebelTV: keines
+knebel_de: ZEUS CL + LTI
