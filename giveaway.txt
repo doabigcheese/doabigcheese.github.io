@@ -1,2 +1,2 @@
 KnebelTV: APOLLO MEDIVAC + LTI
-knebel_de: ZEUS CL + LTI
+knebel_de: STARLANCER TAC + LTI
