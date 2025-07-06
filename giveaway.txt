@@ -1,2 +1,1 @@
-KnebelTV: STARLANCER MAX + LTI
-knebel_de: DRAKE VULTURE + LTI
+knebel_de: ZEUS CL + LTI
