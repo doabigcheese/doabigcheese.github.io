@@ -1,2 +1,1 @@
-KnebelTV: RSI APOLLO + LTI
 knebel_de: RSI APOLLO + LTI
