@@ -1,2 +1,1 @@
-KnebelTV: RSI PERSEUS + LTI
 knebel_de: ORIGIN 400i + LTI
