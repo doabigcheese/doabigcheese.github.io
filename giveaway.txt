@@ -1,2 +1,1 @@
-KnebelTV: GATAC RAILEN + LTI
-knebel_de: RSI PERSEUS + LTI
+knebel_de: ANVL ASGARD + LTI
