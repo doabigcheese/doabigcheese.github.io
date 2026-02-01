@@ -1,2 +1,1 @@
-KnebelTV: RSI HERMES + LTI
-knebel_de: HULL-B + LTI
+knebel_de: RSI HERMES + LTI
