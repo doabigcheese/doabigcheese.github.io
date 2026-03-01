@@ -1,2 +1,2 @@
-KnebelTV: RSI GALAXY + LTI
-knebel_de: ARGO RAFT + LTI
+KnebelTV: keines
+knebel_de: ARGO MOTH + LTI
