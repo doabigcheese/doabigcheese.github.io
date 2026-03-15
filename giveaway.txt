@@ -1,2 +1,2 @@
-KnebelTV: DRAKE CLIPPER + LTI
-knebel_de: ARGO MOTH + LTI
+KnebelTV: keines
+knebel_de: ARGO RAFT + LTI
