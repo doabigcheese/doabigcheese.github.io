@@ -1,2 +1,2 @@
-KnebelTV: keines
+KnebelTV: RSI PERSEUS + LTI
 knebel_de: ARGO RAFT + LTI
