@@ -1,2 +1,2 @@
-KnebelTV: HULL B + LTI
-knebel_de: ARGO RAFT + LTI
+KnebelTV: keines
+knebel_de: HULL B + LTI
