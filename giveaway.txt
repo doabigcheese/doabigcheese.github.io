@@ -1,2 +1,2 @@
-KnebelTV: ORIGIN M80 + LTI
-knebel_de: GATAC RAILEN + LTI
+KnebelTV: keines
+knebel_de: DRAKE IRONCLAD + LTI
