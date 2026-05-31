@@ -1,2 +1,2 @@
-KnebelTV: AEGIS TIBURON + LTI
-knebel_de: DRAKE IRONCLAD + LTI
+KnebelTV: keines
+knebel_de: ORIGIN M80 + LTI
