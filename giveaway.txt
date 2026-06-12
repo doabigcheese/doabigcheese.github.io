@@ -1,2 +1,2 @@
-KnebelTV: keines
-knebel_de: keines
+KnebelTV: MERCHANTMAN + LTI
+knebel_de: ORIGIN M80 + LTI
