@@ -1,2 +1,1 @@
-KnebelTV (StreamWizard): ANVL LIBERATOR + LTI
-knebel_de (StreamWizard): GATAC RAILEN + LTI
+knebel_de (StreamWizard): STINGRAY + GAME PACKAGE + LTI
